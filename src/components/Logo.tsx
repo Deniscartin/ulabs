@@ -1,6 +1,6 @@
 import React from 'react';
 
-export function Logo(props: React.ComponentPropsWithoutRef<'svg'>) {
+export function Logo(props: React.HTMLAttributes<HTMLDivElement>) {
   return (
     <div style={{ display: 'flex', alignItems: 'center' }} {...props}>
       <img
