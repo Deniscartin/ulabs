@@ -111,9 +111,9 @@ export function Header() {
             <div className="hidden md:block">
               <NavLink href="https://dev.undrstnd-labs.com/login">Sign in</NavLink>
             </div>
-            <Button href="https://coinfactory.app/tokens/solana/4f6JrxGUsT9v6pke3AhFkNErurSFHvwqqhnWAVacgkvm?cluster=devnet" color="blue">
+            <Button href="https://docs.google.com/forms/d/1AbZngPvKtgZfHWfSFBrhMKR2L53TqdN4BECyHtyCmI4" color="blue">
               <span>
-              <span className="hidden lg:inline">View</span> $ULABS
+              <span className="hidden lg:inline">Buy</span> $ULABS
               </span>
             </Button>
             <div className="-mr-1 md:hidden">
