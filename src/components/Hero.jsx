@@ -47,13 +47,13 @@ export function Hero() {
       
       {/* Aggiunta delle icone */}
       <div className="mt-6 flex justify-center gap-x-6">
-        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800">
+        <a href="https://www.linkedin.com/company/undrstnd-labs/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800">
           <FaLinkedin size={30} />
         </a>
-        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800">
+        <a href="https://x.com/Undrstndlabs" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800">
           <FaTwitter size={30} />
         </a>
-        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800">
+        <a href="https://github.com/undrstnd-labs" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800">
           <FaGithub size={30} />
         </a>
       </div>
